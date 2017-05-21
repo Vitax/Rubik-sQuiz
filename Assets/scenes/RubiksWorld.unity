@@ -5570,7 +5570,7 @@ GameObject:
   - component: {fileID: 1283287284}
   - component: {fileID: 1283287289}
   m_Layer: 0
-  m_Name: Rubix Cube
+  m_Name: Rubiks Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5587,7 +5587,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 706a061813102414a84c0d0b98fee071, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cube: {fileID: 1829379604918694, guid: 6a2c3cc549f5c274bbf96556f59bd503, type: 2}
+  cube: {fileID: 1750872392902018, guid: 71587b8e7a9c10148bd9a71ab92c1fc7, type: 2}
   worldSize: 5
   gap: 1.05
   objectList: []
